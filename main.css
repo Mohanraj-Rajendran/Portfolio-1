@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;  
+}
+
+#contact-me{
+    /* width: 50rem; */
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(158, 153, 147);
+    border: 3px solid black;
+    margin: 10px;
+    border-radius: 20px;
+    width: 80%; 
+    margin: 20px auto;
+    padding: 50px;
+    
+}
+
+#sign-in{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+
+}
